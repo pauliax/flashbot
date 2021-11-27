@@ -1,0 +1,2 @@
+# flashbot
+Avoid mempool snipers
